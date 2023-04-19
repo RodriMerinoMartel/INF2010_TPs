@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="MazeTest" tests="11" skipped="0" failures="0" errors="0" timestamp="2023-04-10T02:50:51" hostname="RODRISM16" time="0.055">
+  <properties/>
+  <testcase name="inputsValidity()" classname="MazeTest" time="0.012"/>
+  <testcase name="input00()" classname="MazeTest" time="0.009"/>
+  <testcase name="input01()" classname="MazeTest" time="0.001"/>
+  <testcase name="input02()" classname="MazeTest" time="0.002"/>
+  <testcase name="input03()" classname="MazeTest" time="0.002"/>
+  <testcase name="input04()" classname="MazeTest" time="0.002"/>
+  <testcase name="input05()" classname="MazeTest" time="0.002"/>
+  <testcase name="input06()" classname="MazeTest" time="0.002"/>
+  <testcase name="input07()" classname="MazeTest" time="0.003"/>
+  <testcase name="input08()" classname="MazeTest" time="0.005"/>
+  <testcase name="input09()" classname="MazeTest" time="0.01"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

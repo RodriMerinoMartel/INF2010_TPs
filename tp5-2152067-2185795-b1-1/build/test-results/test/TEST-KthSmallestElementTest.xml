@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="KthSmallestElementTest" tests="9" skipped="0" failures="0" errors="0" timestamp="2023-04-10T02:50:51" hostname="RODRISM16" time="0.037">
+  <properties/>
+  <testcase name="inputsValidity()" classname="KthSmallestElementTest" time="0.001"/>
+  <testcase name="complexMatrix()" classname="KthSmallestElementTest" time="0.0"/>
+  <testcase name="simpleSquareShape()" classname="KthSmallestElementTest" time="0.001"/>
+  <testcase name="simpleRectangleShape()" classname="KthSmallestElementTest" time="0.0"/>
+  <testcase name="input00()" classname="KthSmallestElementTest" time="0.002"/>
+  <testcase name="input01()" classname="KthSmallestElementTest" time="0.001"/>
+  <testcase name="input02()" classname="KthSmallestElementTest" time="0.008"/>
+  <testcase name="input03()" classname="KthSmallestElementTest" time="0.012"/>
+  <testcase name="input04()" classname="KthSmallestElementTest" time="0.01"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
